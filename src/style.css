@@ -1,0 +1,8 @@
+@import './scss/style.scss';
+
+@import '~normalize.css';
+
+@import '~swiper/swiper';
+@import '~swiper/modules/pagination';
+@import './fonts';
+@import  './img';
